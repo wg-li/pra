@@ -1,3 +1,3 @@
 # wora
-an efficient hyperparameter optimization method
-The code is upcoming.....
+an efficient hyperparameter optimization method.
+
